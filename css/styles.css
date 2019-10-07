@@ -1,0 +1,149 @@
+body{
+  margin: 0px;
+  text-align: center;
+      background-color: #f6e5e5;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 1.250em;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #f3f9fb;
+
+}
+.middle-container{
+position: relative;
+padding-bottom: 100px;
+}
+.profile{
+  background-color: #f3f9fb;
+}
+.bottom-container{
+  position: relative;
+padding-bottom: 50px;
+background-color: #f3f9fb;
+}
+.flower{
+  position: relative;
+width:150px;
+height:100px;
+left: 300px;
+
+}
+.flower1{
+  position: relative;
+  width:150px;
+  height: 100px;
+right: 300px;
+
+}
+.ola{
+  width: 200px;
+  height: 200px;
+}
+.domain{
+  width: 200px;
+  height: 200px;
+}
+.photography{
+  width: 150px;
+  height: 200px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Yeseva One', cursive;
+  font-size: 5.625rem;
+  color: #d87a95;
+  line-height: 5px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.500rem;
+  color: #d87a95;
+
+}
+.toph{
+  font-family: 'Mansalva', cursive;
+  font-size: 2.500rem;
+  color: #d87a95;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #d87a95;
+}
+h4{
+
+font-family: 'Montserrat', sans-serif;
+}
+hr{
+  width: 3%;
+  border: dotted #b8b2a6 7px;
+  border-bottom: none;
+}
+.footer-link{
+  color: #d87a95;
+  margin: 30px;
+  text-decoration: none;
+}
+.footer-link1{
+  color: #d87a95;
+  margin: 30px;
+  text-decoration: none;
+}
+.skill-row{
+line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.domain{
+  width: 22%;
+  float: left;
+  margin-right: 30px;
+}
+.photography{
+  width: 22%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me{
+  padding-bottom: 30px;
+}
+.btn{
+  background-color: white;
+  border: none;
+  padding: 15px 25px;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+
+  border-radius: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn:hover{
+  background-color: #d87a95;
+  color: white;
+}
+a:hover{
+color: #45454d;
+}
+.copyright{
+  font-size: 0.75em;
+}
+.bottomflower{
+  position: relative;
+  width:150px;
+  height: 100px;
+right: 300px;
+bottom: 30px;
+}
+.bottomflower1{
+  position: relative;
+  width:150px;
+  height: 100px;
+left: 300px;
+bottom: 30px;
+}
